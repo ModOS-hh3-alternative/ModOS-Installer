@@ -1,0 +1,27 @@
+Warning
+If the calculator is connected to a computer, disconnect it.\r\n\r\nPress [SHIFT] [AC/ON] to turn off the calculator.
+Connect the calculator
+1. Connect the calculator.\r\n\r\n2. If [Select Connection Mode] is displayed on the calculator, press [EXIT] to exit it.\r\n\r\n3. Press [MENU].\r\n\r\n4. Press [ab/c] (G) to enter System mode.\r\n\r\n5. Press [F6] [F5] (OS Update) to enter receive standby.
+Error
+You already have the latest version.
+Error
+Your calculator is a model that is not supported.
+Error
+Update failed.
+Complete
+Update is complete.\r\nDo you want to update another calculator?
+Updating...\r\nPlease do not disconnect the cable.
+Checking the calculator version...
+Deleting...\r\nDeleting may take a few minutes.\r\nPlease do not disconnect the cable.
+Warning
+Are you sure?
+Warning
+Some files could not be copied.\r\nStorage memory is full, or one or more files in memory are identical to the files being copied.
+Sending data...
+Deleting...
+Sending data...
+Add-in application installation failed due to insufficient storage memory.\r\nDo you want to continue with the update?
+Install the add-in application?
+If the calculator is connected to a computer, disconnect it.\r\n\r\nPress [ON/OFF] to turn off the calculator.
+1. Connect the calculator.\r\n\r\n2. If [Select Connection Mode] is displayed on the calculator, press [Clear] to exit it.\r\n\r\n3. Tap the [Menu] icon.\r\n\r\n4. On the application menu, tap the [Communica...] icon.\r\n\r\n5. Tap [Link], then [OS Update].\r\n\r\n6. Tap [OK].
+1. Connect the calculator via USB.\r\n\r\n2. Power off the calculator.\r\n\r\n3. Hold down the [EXP], [^], and [Clear] keys.\r\n\r\n4. Momentarily press the RESET button on the back of the calculator.\r\n\r\n5. You should see "OS ERROR Please update OS." on the calculator.\r\n\r\n6. Tap [OK].\r\n\r\n- If stuck, ask for help at: classpaddev.github.io
